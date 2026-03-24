@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rohit Kumar 👋
 
-<!--
-**Kumarrohit9090/Kumarrohit9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 QA Software Test Engineer | Noida, India
 
-Here are some ideas to get you started:
+Detail-oriented QA Engineer with 1+ year of experience 
+in Manual and Automation Testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- Manual Testing | Functional | Regression | API Testing
+- Postman | JMeter | JIRA | Selenium WebDriver
+- Python | Pytest
+- Android & iOS Mobile Testing
+- Agile / Scrum
+
+## 📂 Projects
+| Project | Description | Tools |
+|---|---|---|
+| Login Automation | Selenium tests for login workflows | Python, Selenium |
+| API Testing | REST API test suite | Python, Pytest, Requests |
+| Calculator Tests | Unit tests for calculator app | Python, Pytest |
+
+## 📫 Connect with Me
+- LinkedIn: linkedin.com/in/rohitkumar9219
+- Email: kumarrohit.india2@gmail.com
