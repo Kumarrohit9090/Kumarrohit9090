@@ -2,12 +2,12 @@
 
 ## 🧪 QA Software Test Engineer | Noida, India
 
-Detail-oriented QA Engineer with 1+ year of experience 
+Detail-oriented QA Engineer with 2+ years of experience 
 in Manual and Automation Testing.
 
 ## 🛠️ Skills & Tools
 - Manual Testing | Functional | Regression | API Testing
-- Postman | JMeter | JIRA | Selenium WebDriver
+- Postman | JMeter | JIRA | Playwright WebDriver
 - Python | Pytest
 - Android & iOS Mobile Testing
 - Agile / Scrum
@@ -15,7 +15,7 @@ in Manual and Automation Testing.
 ## 📂 Projects
 | Project | Description | Tools |
 |---|---|---|
-| Login Automation | Selenium tests for login workflows | Python, Selenium |
+| Login Automation | Playwright tests for login workflows | Python, Playwright |
 | API Testing | REST API test suite | Python, Pytest, Requests |
 | Calculator Tests | Unit tests for calculator app | Python, Pytest |
 
